@@ -1,0 +1,1 @@
+Streamlit Dashboard Project built to visualize share price action. Sorting, cleaning, and manipulating data from five S&P 500 companies using Python with various libraries. Tasked with giving visualizations displaying  my findings of their price action.
